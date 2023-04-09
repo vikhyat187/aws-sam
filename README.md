@@ -11,7 +11,7 @@ This is a sample template for sam-app - Below is a brief explanation of what we 
 │   └── main_test.go            <-- Unit tests
 └── template.yaml
 ```
-
+ 
 ## Requirements
 
 * AWS CLI already configured with Administrator permission
